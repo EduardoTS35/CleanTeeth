@@ -39,7 +39,7 @@ a:hover,
 a:focus {
   text-decoration: none;
   outline: none;
-  color: #e12454;
+  color: #DB9EB9;
   transition: all 0.5s;
 }
 
@@ -138,7 +138,7 @@ ul {
 }
 
 .home1-section-heading1 {
-  color: #e12454;
+  color: #E065AD;
   text-align: center;
   padding-bottom: 12px;
 }
@@ -176,7 +176,7 @@ ul {
 a.button-btn, button.button-btn {
   padding: 0px 55px;
   display: inline-block;
-  background-color: #e12454;
+  background-color: #DB9EB9;
   color: #fff;
   line-height: 50px;
   border-radius: 30px;
@@ -197,7 +197,7 @@ a.button-btn:before, button.button-btn:before {
   right: 0;
   bottom: 0;
   left: -4px;
-  background-color: #b3183f;
+  background-color: #A17489;
   transform: translateX(-100%);
   z-index: -1;
   transition: 0.5s ease-in-out;
@@ -213,8 +213,8 @@ a.button-btn:hover:before, button.button-btn:hover:before {
 }
 
 a.button-btn:hover span, button.button-btn:hover span {
-  background-color: #e12454;
-  color: #ffd9db;
+  background-color: #DB9EB9;
+  color: #A17489;
 }
 
 a.button-btn span, button.button-btn span {
@@ -228,7 +228,7 @@ a.button-btn span, button.button-btn span {
   right: 5px;
   top: 50%;
   transform: translateY(-50%);
-  color: #e12454;
+  color: #A17489;
   transition: all 0.5s;
 }
 
@@ -308,7 +308,7 @@ a.button-btn span, button.button-btn span {
 }
 
 .select-options li:hover {
-  background: #e12454;
+  background: #DB9EB9;
   color: #fff;
 }
 
@@ -317,7 +317,7 @@ a.button-btn span, button.button-btn span {
 }
 
 .mobile-menu-wrapper {
-  background-color: #e12454;
+  background-color: #DB9EB9;
   padding: 15px 0px;
 }
 
@@ -394,14 +394,14 @@ a.button-btn span, button.button-btn span {
   border: none;
   width: 47px;
   height: 46px;
-  background: #ffd9db;
+  background: #DEFFF3;
   line-height: 26px;
   border-radius: 50%;
   text-align: center;
 }
 
 #sidebar #cssmenu ul li .social-icon li a {
-  color: #e12454;
+  color: #6EBFB8;
   display: inline-block;
   padding: 10px 0px;
 }
@@ -730,7 +730,7 @@ header css
 }
 
 .main-header-wrapper .sb-main-header .top-header-section .sb-top-left-section a:hover {
-  color: #e12454;
+  color: #DB9EB9;
 }
 
 .main-header-wrapper .sb-main-header .top-header-section .sb-top-right-section ul {
@@ -745,14 +745,14 @@ header css
 }
 
 .main-header-wrapper .sb-main-header .top-header-section .sb-top-right-section ul li a:hover {
-  color: #e12454;
+  color: #DB9EB9;
 }
 
 .main-header-wrapper .sb-main-header .top-header-section .sb-top-right-section ul .login-btn {
   transition: all 0.5s;
   width: 160px;
   text-align: center;
-  background-color: #b51a41;
+  background-color: #DB9EB9;
   color: #ffffff;
 }
 
@@ -784,15 +784,15 @@ header css
   width: 35px;
   height: 35px;
   border-radius: 50%;
-  background-color: #ffd9db;
-  color: #e12454;
+  background-color: #DEFFF3;
+  color: #6EBFB8;
   text-align: center;
   line-height: 35px;
   margin: 10px 15px;
 }
 
 .menu-items-wrapper {
-  background-color: #DAC2FE;
+  background-color: #DB9EB9;
   padding: 13px 0px;
 }
 
@@ -814,7 +814,7 @@ header css
 .menu-items-wrapper nav ul li .dropdown-items {
   position: absolute;
   background-color: #fff;
-  border-bottom: 2px solid #DAC2FE;
+  border-bottom: 2px solid #DB9EB9;
   z-index: 999;
   top: 50px;
   opacity: 0;
@@ -852,7 +852,7 @@ header css
   top: 0;
   width: 200px;
   background-color: #fff;
-  border-bottom: 2px solid #DAC2FE;
+  border-bottom: 2px solid #DB9EB9;
   box-shadow: 2px 0 10px #0000001a;
 }
 
@@ -869,7 +869,7 @@ header css
 }
 
 .menu-items-wrapper nav ul li .dropdown-items li:hover {
-  background-color: #DAC2FE;
+  background-color: #DB9EB9;
 }
 
 .menu-items-wrapper nav ul li .dropdown-items li:hover:after {
@@ -909,7 +909,7 @@ header css
 
 .menu-items-wrapper form input {
   width: 380px;
-  background: #DAC2FE;
+  background: #DB9EB9;;
   border: none;
   height: 40px;
   color: black;
@@ -933,7 +933,7 @@ header css
 Banner section css
 =================*/
 .banner-section-wrapper {
-  background-image: url(../images/8.jpg);
+  background-image: url(../images/5.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -950,7 +950,7 @@ Banner section css
 }
 
 .banner-section-wrapper .sb-banner-section h2 span {
-  color: #e12454;
+  color: #E065AD;
 }
 
 .banner-section-wrapper .sb-banner-section p {
@@ -1405,8 +1405,8 @@ Banner section css
 }
 
 .image-about-wrapper .image-section .image-content {
-  background-color: #e12454;
-  color: #ffffff;
+  background-color: #E6DEFF;
+  color: #000;
   width: 280px;
   position: relative;
   left: 0;
@@ -1422,7 +1422,7 @@ Banner section css
 }
 
 .image-about-wrapper .image-section .image-content h5 {
-  color: #ffffff;
+  color: #000;
   padding-left: 32px;
   padding-bottom: 15px;
   font-size: 24px;
@@ -1483,14 +1483,14 @@ Services section
 .services-main-wrapper .sb-service-section .slider-service-section .owl-carousel .owl-nav button {
   height: 50px;
   width: 50px;
-  background-color: #ffd9db;
-  color: #e12454;
+  background-color: #FFD9DB;
+  color: #DB9EB9;
   border-radius: 50%;
   transition: all 0.5s;
 }
 
 .services-main-wrapper .sb-service-section .slider-service-section .owl-carousel .owl-nav button:hover {
-  background-color: #e12454;
+  background-color: #DB9EB9;
   color: #fff;
 }
 
@@ -1529,8 +1529,8 @@ Services section
   position: absolute;
   width: 41px;
   height: 41px;
-  background-color: #ffd9db;
-  color: #e12454;
+  background-color: #DB9EBA;
+  color: #A17489;
   line-height: 41px;
   top: 0;
   right: 0;
@@ -1552,7 +1552,7 @@ Services section
 }
 
 .slider-box:hover .icon {
-  background-color: #e12454;
+  background-color: #7765AA;
   color: #fff;
 }
 
@@ -1908,7 +1908,7 @@ Services section
 
 .blog-box .blog-content ul li i {
   padding-right: 15px;
-  color: #e12454;
+  color: #DB9EB9;
 }
 
 .blog-box .blog-content p {
@@ -1916,7 +1916,7 @@ Services section
 }
 
 .blog-box .blog-content .r-btn {
-  color: #e12454;
+  color: #DB9EB9;
   padding-top: 15px;
   display: inline-block;
   border-bottom: 1px solid transparent;
@@ -1924,7 +1924,7 @@ Services section
 }
 
 .blog-box:hover h3 {
-  color: #e12454 !important;
+  color: #E065AD !important;
 }
 
 .blog-box:hover .img-overlay {
@@ -1966,7 +1966,7 @@ Services section
   height: 110px;
   background-color: #fff;
   border-radius: 50%;
-  border: 7px solid #ffd9db;
+  border: 7px solid #E6DEFF;
   margin: 0 auto;
   margin-bottom: 20px;
   transition: all 0.5s;
@@ -1975,7 +1975,7 @@ Services section
 .counter-main-wrapper .count-up .counter-icon svg {
   width: 40px;
   height: 40px;
-  fill: #e12454;
+  fill: #7765AA;
   text-align: center;
   position: relative;
   top: 50%;
@@ -1988,7 +1988,7 @@ Services section
 }
 
 .counter-main-wrapper .count-up:hover .counter-icon {
-  background-color: #e12454;
+  background-color: #7765AA;
 }
 
 .counter-main-wrapper .count-up:hover svg {
@@ -2078,8 +2078,8 @@ Services section
   text-align: center;
   background: #fff;
   border-radius: 50px;
-  border: 5px solid #ffd9db;
-  color: #e12454;
+  border: 5px solid #DEFFF3;
+  color: #6EBFB8;
   margin-right: 20px;
 }
 
@@ -2095,9 +2095,9 @@ Services section
 }
 
 .form-section h6 {
-  background-color: #e12454;
+  background-color: #DB9EB9;
   padding: 13px 30px;
-  color: #fff;
+  color: #000;
   border-top-left-radius: 7px;
   border-top-right-radius: 7px;
   font-size: 22px;
@@ -2181,7 +2181,9 @@ Services section
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: #0e3340db;
+  opacity: 0.5; /* Opacidad inicial */
+  background-color: black; /* Color de fondo para opacidad */
+  transition: opacity 0.5s ease; /* Transición suave de opacidad */
   z-index: -1;
 }
 
@@ -2241,7 +2243,7 @@ Services section
   left: 0;
   width: 100%;
   height: 100%;
-  background: #e12454;
+  background: #DB9EB9;
   transition: all 0.5s;
   z-index: 2;
 }
@@ -3390,7 +3392,7 @@ section:hover .hover-type a {
 /*1.1 gallery
 .......................................*/
 .gallery-main-page .overlay-color {
-  background-color: #e1245499 !important;
+  background-color: #E6DEFF !important;
 }
 
 .gallery-main-page ul {
@@ -3452,7 +3454,7 @@ section:hover .hover-type a {
 }
 
 .consult-wrap .consult i {
-  color: #e12454;
+  color: #6EBFB8;
   margin-right: 10px;
 }
 
@@ -3468,7 +3470,7 @@ section:hover .hover-type a {
   display: inline-block;
   padding: 40px;
   margin-top: 20px;
-  border: 7px solid #ffd9db;
+  border: 7px solid #DEFFF3;
   transition: all 0.5s;
   border-radius: 7px;
 }
@@ -3487,14 +3489,14 @@ section:hover .hover-type a {
 }
 
 .about-box .sb-about-box:before {
-  border-bottom: 7px solid #e12454;
-  border-left: 7px solid #e12454;
+  border-bottom: 7px solid #6EBFB8;
+  border-left: 7px solid #6EBFB8;
   transform-origin: 0 100%;
 }
 
 .about-box .sb-about-box:after {
-  border-top: 7px solid #e12454;
-  border-right: 7px solid #e12454;
+  border-top: 7px solid #6EBFB8;
+  border-right: 7px solid #6EBFB8;
   transform-origin: 100% 0%;
 }
 
@@ -3793,14 +3795,14 @@ section:hover .hover-type a {
 }
 
 .social a .icon-color {
-  color: #444;
+  color: #fff;
   transition: all 0.5s;
   padding: 0 !important;
 }
 
 .social a:hover {
-  background-color: #e12454;
-  border-color: #e12454;
+  background-color: #E065AD;
+  border-color: #fff;
 }
 
 .social a:hover .icon-color {
@@ -4009,7 +4011,7 @@ section:hover .hover-type a {
 
 .blog-page-main-container .blog-single-main-page .blog-box .blog-content .quote-sec {
   padding: 25px;
-  background: #e12454;
+  background: #E065AD;
   text-align: center;
   border-radius: 10px;
   margin-top: 30px;
@@ -9818,7 +9820,7 @@ ul {
   top: 0;
   left: 0;
   right: 0;
-  background-color: #DAC2FE;
+  background-color: #DB9EB9;
   z-index: 10000;
   -o-box-shadow: 0px 0px 25px -10px;
   -ms-box-shadow: 0px 0px 25px -10px;
@@ -9838,7 +9840,7 @@ ul {
   border-radius: 50px;
   line-height: 50px;
   font-size: 24px;
-  background: #e12454;
+  background: #DB9EB9;
   transition: all 0.3s ease;
   z-index: 999;
   color: #fff;
